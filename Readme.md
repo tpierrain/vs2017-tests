@@ -1,5 +1,9 @@
 # NUnit with VS.NET 2017 
 
+## TD;DR
+Neither Visual Studio 2017, nor R# test runner and NCrunch are able to detect any of my nunit tests when using non (CLR-based) classical .NET target.
+Here is a solution for your to test on your side + the result for me ;-(
+
 
 ### ClassicNetLibrary
 - .NET framework (4.5.2) + NUnit 3.6.1 + NUnit3TestAdapter v 3.7.0 (Windows classic Desktop -> Class Library)
