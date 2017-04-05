@@ -11,21 +11,39 @@
 
 ### NetStandardLibrary
 - .NET standard (1.6) + NUnit 3.6.1 + NUnit3TestAdapter v 3.7.0 (Windows Standard -> Class Library)
- - via VS (Ctrl+R, A): __KO__ test not detected by the runner
- - via R# test runner: __KO__ test not detected by the runner
- - via NCrunch: __KO__ - test not detected by the runner. It even seems to brake the proper execution of the ClassicNetLibrary project (which works again after removing the NetStandard project ;-)
+ - via VS (Ctrl+R, A): __KO - test not detected by the runner__
+ - via R# test runner: __KO - test not detected by the runner__
+ - via NCrunch: __KO - test not detected by the runner__. It even seems to brake the proper execution of the ClassicNetLibrary project (which works again after removing the NetStandard project ;-)
 
 
 
 ### DotNetCoreLib
 - .NET core app (1.1) + NUnit 3.6.1 + NUnit3TestAdapter v 3.7.0 (Windows Standard -> Class Library)
- - via VS (Ctrl+R, A): __KO__ test not detected by the runner
- - via R# test runner: __KO__ test not detected by the runner
- - via NCrunch: __KO__ test not detected by the runner
-
+ - via VS (Ctrl+R, A): __KO - test not detected by the runner__
+ - via R# test runner: __KO - test not detected by the runner__
+ - via NCrunch: __KO - test not detected by the runner__
 
 
 # Version used
+
+## .NET versions for the various projects (and how I created those projects)
+
+### .Net Classic
+![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/ClassicNetLibrary-How.png?raw=true)
+![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/ClassicNetLibrary-Version.png?raw=true)
+
+---
+
+### NetStandardLibrary
+![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-How.png?raw=true)
+![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-Version.png?raw=true)
+
+---
+
+### DotNetCoreLib
+![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/DotNetCoreLib-How.png?raw=true)
+![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/DotNetCoreLib-Version.png?raw=true)
+
 
 ## Visual Studio
 
