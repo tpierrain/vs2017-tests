@@ -36,8 +36,8 @@
 
 ### NetStandardLibrary
 
-![std](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-How.png?raw=true)
-![stdv](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-Version.png?raw=true)
+![std](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-How.PNG?raw=true)
+![stdv](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-Version.PNG?raw=true)
 
 ---
 
