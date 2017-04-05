@@ -30,19 +30,20 @@
 
 ### .Net Classic
 ![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/ClassicNetLibrary-How.png?raw=true)
-![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/ClassicNetLibrary-Version.png?raw=true)
+![Classicv](https://github.com/tpierrain/vs2017-tests/blob/master/ClassicNetLibrary-Version.png?raw=true)
 
 ---
 
 ### NetStandardLibrary
-![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-How.png?raw=true)
-![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-Version.png?raw=true)
+
+![std](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-How.png?raw=true)
+![stdv](https://github.com/tpierrain/vs2017-tests/blob/master/NetStandardLibrary-Version.png?raw=true)
 
 ---
 
 ### DotNetCoreLib
-![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/DotNetCoreLib-How.png?raw=true)
-![Classic](https://github.com/tpierrain/vs2017-tests/blob/master/DotNetCoreLib-Version.png?raw=true)
+![core](https://github.com/tpierrain/vs2017-tests/blob/master/DotNetCoreLib-How.png?raw=true)
+![corev](https://github.com/tpierrain/vs2017-tests/blob/master/DotNetCoreLib-Version.png?raw=true)
 
 
 ## Visual Studio
