@@ -2,8 +2,10 @@
 
 ## TD;DR
 Neither Visual Studio 2017, nor R# test runner and NCrunch are able to detect any of my nunit tests when using non (CLR-based) classical .NET target.
+
 Here is a solution for your to test on your side + the result for me ;-(
 
+3 projects with 1 unit test per project  
 
 ### ClassicNetLibrary
 - .NET framework (4.5.2) + NUnit 3.6.1 + NUnit3TestAdapter v 3.7.0 (Windows classic Desktop -> Class Library)
@@ -96,7 +98,7 @@ JavaScript Project System   2.0
 JavaScript Project System
 
 JetBrains ReSharper Ultimate 2017.1    Build 108.0.20170402.75312
-JetBrains ReSharper Ultimate package for Microsoft Visual Studio. For more information about ReSharper Ultimate, visit http://www.jetbrains.com/resharper. Copyright © 2017 JetBrains, Inc.
+JetBrains ReSharper Ultimate package for Microsoft Visual Studio. For more information about ReSharper Ultimate, visit http://www.jetbrains.com/resharper. Copyright Â© 2017 JetBrains, Inc.
 
 KofePackagePackage Extension   1.0
 KofePackagePackage Visual Studio Extension Detailed Info
@@ -118,7 +120,7 @@ Support for debugging Mono processes with Visual Studio.
 
 NCrunch   
 Continuous Testing Tool for .NET
-Copyright © 2010-2016 Remco Software Ltd
+Copyright Â© 2010-2016 Remco Software Ltd
 
 Node.js Tools   1.3.50201.08
 Adds support for developing and debugging Node.js apps in Visual Studio
