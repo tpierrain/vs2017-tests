@@ -4,7 +4,7 @@
 Neither Visual Studio 2017, nor R# test runner and NCrunch are able to detect any of my nunit tests when using non (CLR-based) classical .NET target.
 
 __To have nunit tests detected by your (IDE related) tools, you need to create a project targeting the classical .NET framework__. 
-Further explanations [here](https://twitter.com/tpierrain/status/849521197394124800) and [there](https://twitter.com/resharper/status/849636353235193857) on twitter.
+Further explanations [here](https://twitter.com/remcomulder/status/849866048279007234) and [there](https://twitter.com/resharper/status/849636353235193857) on twitter.
 
 ---
 
